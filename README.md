@@ -25,10 +25,10 @@ Try it out here:
 
 To run the project locally:
 
-\`\`\`bash
+```bash
 1. Clone the repository  
-2. Open \`index.html\` in your web browser
-\`\`\`
+2. Open `index.html` in your web browser
+```
 
 ## 👨‍💻 About the Project
 
